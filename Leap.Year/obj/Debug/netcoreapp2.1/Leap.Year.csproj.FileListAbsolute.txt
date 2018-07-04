@@ -1,0 +1,11 @@
+C:\Users\Degtyarenko\Leap.Year\bin\Debug\netcoreapp2.1\Leap.Year.deps.json
+C:\Users\Degtyarenko\Leap.Year\bin\Debug\netcoreapp2.1\Leap.Year.runtimeconfig.json
+C:\Users\Degtyarenko\Leap.Year\bin\Debug\netcoreapp2.1\Leap.Year.runtimeconfig.dev.json
+C:\Users\Degtyarenko\Leap.Year\bin\Debug\netcoreapp2.1\Leap.Year.dll
+C:\Users\Degtyarenko\Leap.Year\bin\Debug\netcoreapp2.1\Leap.Year.pdb
+C:\Users\Degtyarenko\Leap.Year\obj\Debug\netcoreapp2.1\Leap.Year.csprojAssemblyReference.cache
+C:\Users\Degtyarenko\Leap.Year\obj\Debug\netcoreapp2.1\Leap.Year.csproj.CoreCompileInputs.cache
+C:\Users\Degtyarenko\Leap.Year\obj\Debug\netcoreapp2.1\Leap.Year.AssemblyInfoInputs.cache
+C:\Users\Degtyarenko\Leap.Year\obj\Debug\netcoreapp2.1\Leap.Year.AssemblyInfo.cs
+C:\Users\Degtyarenko\Leap.Year\obj\Debug\netcoreapp2.1\Leap.Year.dll
+C:\Users\Degtyarenko\Leap.Year\obj\Debug\netcoreapp2.1\Leap.Year.pdb

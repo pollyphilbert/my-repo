@@ -1,0 +1,11 @@
+C:\Users\Degtyarenko\Max.number\obj\Debug\netcoreapp2.1\Max.number.csprojAssemblyReference.cache
+C:\Users\Degtyarenko\Max.number\obj\Debug\netcoreapp2.1\Max.number.csproj.CoreCompileInputs.cache
+C:\Users\Degtyarenko\Max.number\obj\Debug\netcoreapp2.1\Max.number.AssemblyInfoInputs.cache
+C:\Users\Degtyarenko\Max.number\obj\Debug\netcoreapp2.1\Max.number.AssemblyInfo.cs
+C:\Users\Degtyarenko\Max.number\bin\Debug\netcoreapp2.1\Max.number.deps.json
+C:\Users\Degtyarenko\Max.number\bin\Debug\netcoreapp2.1\Max.number.runtimeconfig.json
+C:\Users\Degtyarenko\Max.number\bin\Debug\netcoreapp2.1\Max.number.runtimeconfig.dev.json
+C:\Users\Degtyarenko\Max.number\bin\Debug\netcoreapp2.1\Max.number.dll
+C:\Users\Degtyarenko\Max.number\bin\Debug\netcoreapp2.1\Max.number.pdb
+C:\Users\Degtyarenko\Max.number\obj\Debug\netcoreapp2.1\Max.number.dll
+C:\Users\Degtyarenko\Max.number\obj\Debug\netcoreapp2.1\Max.number.pdb
